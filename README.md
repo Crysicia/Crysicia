@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](./profile-3d-contrib/profile-night-view.svg)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Crysicia&theme=highcontrast&hide_border=true)
 
 <!--
