@@ -1,6 +1,6 @@
-![](./profile-3d-contrib/profile-night-view.svg)
-
+Graph is broken 🫠
 <!--
+![](./profile-3d-contrib/profile-night-view.svg)
 **Crysicia/Crysicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
